@@ -1,0 +1,8 @@
+dxcam
+opencv-python
+PySide6
+keyboard
+mouse
+numpy
+pywin32
+mss
